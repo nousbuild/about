@@ -3,4 +3,4 @@
 [Scenery Architecture](http://www.nousbuild.org)</br>
 
 ## Program of Architecture on Github
-![Project of Scenery Architecture on github](http://www.nousbuild.org/demo/githubimages/porject-on-github.jpg)
+![Project of Scenery Architecture on github](http://img.nousbuild.top/github/porject-on-github.jpg)
