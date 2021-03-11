@@ -1,10 +1,14 @@
-![Logo](assets/logo.png)
+
+
+<img src='assets/logo.png' align='center' alt='SA Logo'>
+
+![](https://visitor-badge.glitch.me/badge?page_id=nousbuild.readme)
 
 # About
 
-### Project of [Scenery Architecture](http://www.nousbuild.org)
+### Github Project
 
-Project now it's on Github :-)
+Project of Scenery Architecture now it's on Github.
 
 ### What is Scenery Architecture
 
